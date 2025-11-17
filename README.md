@@ -129,8 +129,8 @@ with open("regressor_model.pkl", 'wb') as file:
   </p>
   <h3>Contact</h3>
   <ul>
-    <li>GitHub: <a https://github.com/AnanditaNagpal>AnanditaNagpa</a></li>
-    <li>LinkedIn: <a https://www.hackerrank.com/profile/ananditanagpal58>AnanditaNagpal K</a></li>
+    <li>GitHub: https://github.com/AnanditaNagpal
+    <li>LinkedIn: https://www.linkedin.com/in/anandita-nagpal
     <li>Email: <a href="mailto:nagpalanandita@gmail.com">nagpalanandita@gmail.com</a></li>
   </ul>
   
